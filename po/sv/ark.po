@@ -38,7 +38,7 @@ msgstr "stefan.asserhall@bredband.net"
 #, kde-format
 msgctxt "Noun, not a verb. Top level menu item, i.e. like File"
 msgid "&Archive"
-msgstr "&Arkivera"
+msgstr "&Arkiv"
 
 #: app/batchextract.cpp:103 app/batchextract.cpp:167
 #, kde-format
@@ -477,7 +477,7 @@ msgstr ""
 #, kde-format
 msgctxt "Default name of a newly-created multi-file archive"
 msgid "Archive"
-msgstr "Arkivera"
+msgstr "Arkiv"
 
 #. i18n: ectx: label, entry (showEncryptionWarning), group (General)
 #: kerfuffle/ark.kcfg:9
@@ -1392,7 +1392,7 @@ msgstr "&Arkivera"
 #: part/ark_part.rc:15
 #, kde-format
 msgid "&File"
-msgstr "&Arkiv"
+msgstr "&Fil"
 
 #. i18n: ectx: Menu (settings)
 #: part/ark_part.rc:29
